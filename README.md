@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 ###### Sobre o Taciana
 Advogada especializada em Jornalismo e Programação
