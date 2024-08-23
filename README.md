@@ -5,7 +5,7 @@ Advogada especializada em Jornalismo e Programação
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=tacimiwa&show_icons=true&theme=dark)](httpsgithub.tacimiwaragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=tacimiwa&show_icons=true&theme=dark)](httpsgithub.tacimiwagithub-readme-stats)
 
 ### Projetos
 
